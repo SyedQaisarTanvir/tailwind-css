@@ -1,0 +1,7 @@
+
+
+
+Just use tailwind css website until you cannot build 10 to 15 projects.....
+Just copy and paste the classes you want to use in your project.
+
+		Space between is the important property.

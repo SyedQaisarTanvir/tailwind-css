@@ -1,0 +1,17 @@
+
+
+
+
+
+
+
+								Tips For Using Tailwind CSS
+
+	If your are beginer, you have to open the website of Tailwind....
+	and you can check different properties from there.....
+	Tailwind CSS Intellisense Extension of VS Code also help you alot...
+
+
+	NOTE:-
+		If you build 10-15 projects by using tailwind css then you can become familiar with tailwind CSS Classes...
+		then you can write the classes on your own without using tailwind Website.  

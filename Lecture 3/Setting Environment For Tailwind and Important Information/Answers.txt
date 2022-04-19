@@ -1,0 +1,16 @@
+
+
+
+
+
+								Why to Use Tailwind?
+
+	What about responsive using tailwind?
+		You can make your website responsive by using tailwind.......
+		 you can apply different break points for different devices and.....
+		yiu can write different CSS for different devices in the same element.
+
+	Tailwind shipped only classes that you are used in your websites, So it is not costly. 
+
+	Tailwind CSS is better than inline-CSS because the utility classes we use in tailwind CSS is short....
+	and we have to write complete property in inline CSS. We can apply different styles for different devices in tailwind CSS.	   

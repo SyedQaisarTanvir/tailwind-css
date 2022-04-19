@@ -1,0 +1,11 @@
+
+
+
+
+			Square Bracket Notation
+
+
+	Why top use Square Bracket Notation?
+		Beacuse utility classes of tailwind CSS has specific Values...
+		If you want to set any arbitrary value to those classes, we can use square bracket notation.
+			e.g. my-[67px]
